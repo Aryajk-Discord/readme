@@ -13,10 +13,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aryajk-Discord&theme=nord&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryajk-Discord&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<a href="https://github.com/ghost1372">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghost1372" />
-</a>
-
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
